@@ -1,5 +1,5 @@
-# Knee-Brace
-Assisted walking software for prototype robotic knee brace for users with ALS, MS, MD, etc.
+# Robotic Knee Brace
+Assisted walking software for prototype robotic knee brace for users with ALS, MS, MD, etc. The idea is to detect intention to move based on the user's slight movement, then the servo assists in that direction until resistance is detected.
 
 
 ![Knee_Brace](https://github.com/Miimiikiu/Knee-Brace/assets/128089127/2922a470-7a53-4587-b4b8-16d7c9a7749d)
