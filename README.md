@@ -33,12 +33,12 @@ From this repo's home directory:
 
 
 ## TODO:
--Originally made for Raspberry Pi 3B+ -- Migrate to ESP32 for better performance & reliability and faster startup.
+-Originally made for Raspberry Pi 3B+ -- Migrate to ESP32 for better performance, efficiency, reliability and especially faster startup.
 
 -Currently only works with one pressure sensor but at least two + stretch sensor band should be required.
 
--Shin brace should be adjustable but snug
+-Shin brace should be adjustable but snug.
 
--Redesign & upload STL files for new hardware compatibilty
+-Redesign & upload STL files for new hardware compatibilty.
 
--Properly document wiring
+-Properly document wiring.
