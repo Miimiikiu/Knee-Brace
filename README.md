@@ -1,5 +1,5 @@
 # Knee-Brace
- Software for prototype robotic knee brace to assist walking for users with ALS, MS, MD, etc.
+Assisted walking software for prototype robotic knee brace for users with ALS, MS, MD, etc.
 
 
 ![Knee_Brace](https://github.com/Miimiikiu/Knee-Brace/assets/128089127/2922a470-7a53-4587-b4b8-16d7c9a7749d)
